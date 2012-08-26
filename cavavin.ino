@@ -71,7 +71,7 @@ long btnLastApply  = 0;
 menu *curMenu  = NULL;
 menu *lastMenu = NULL;
 	
-double kp=30, ki=5, kd=0;
+double kp=80, ki=1, kd=2;
 PID myPID(&tempCave, &powerPeltier, &targetTemp, kp,ki,kd, DIRECT);
 
 /**********  TEMPERATURE FUNCTIONS  **********/
