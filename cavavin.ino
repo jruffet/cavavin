@@ -1,3 +1,9 @@
+/*
+  Copyright (c) 2012 Jérémy Ruffet (sativouf)
+  Licensed under GPLv3+: GNU GPL version 3 or later
+  See LICENSE file or http://www.gnu.org/licenses/gpl.html
+*/
+
 #include <OneWire.h>
 #include <LiquidCrystal.h>
 #include <PID_v1.h>
