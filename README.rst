@@ -3,7 +3,7 @@ Cavavin
 
 Wine Cellar project based on arduino.
 
-The Goal is to replace all electronics in a Domoclip GS99 (basic 12 bottles wine cellar), to make it a better cellar (with precise temperature control), and to make it free !
+This project aims at replacing all electronics in a Domoclip GS99 (basic 12 bottles wine cellar), making it a better cellar (with precise temperature control), and making it free !
 
 Components
 ----------
